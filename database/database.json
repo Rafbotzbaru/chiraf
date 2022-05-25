@@ -1,0 +1,50 @@
+{
+  "users": {
+    "6281281115918@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 30
+    }
+  },
+  "chats": {
+    "6281281115918@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 30
+    }
+  },
+  "database": {},
+  "game": {
+    "tebaklagu": [],
+    "family100": [],
+    "math": [],
+    "tebakgambar": [],
+    "tebakkata": [],
+    "lontong": [],
+    "lontong_desk": [],
+    "kalimat": [],
+    "lirik": [],
+    "tebakan": []
+  },
+  "settings": {
+    "6282134554797@s.whatsapp.net": {
+      "status": 0,
+      "autobio": false
+    }
+  },
+  "others": {
+    "vote": []
+  },
+  "sticker": {
+    "176,18,155,162,248,156,235,177,144,55,251,254,227,144,212,9,186,162,192,140,29,20,254,52,106,64,56,135,65,83,170,28": {
+      "text": "yolag",
+      "mentionedJid": [],
+      "creator": "6281575886399@s.whatsapp.net",
+      "at": 1652693823736,
+      "locked": false
+    }
+  },
+  "sewa": {
+    "listsewa": []
+  }
+}
