@@ -38,8 +38,8 @@ global.email = 'info.ernestoyoofi@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
-global.packname = '\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'Ernestoyoofi' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.packname = '' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.author = 'Ernestoyoofi Bot' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 global.sessionName = 'session'
