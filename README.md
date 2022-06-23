@@ -21,11 +21,12 @@
 <a href="https://github.com/ernestoyoofi/chika-multi-device/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 
+---
+
 <p align="center">
   <a href="#requirements">Requirements</a> •
   <a href="#instalasi">Installation</a> •
   <a href="#thanks-to">Thanks to</a> •
-  <a href="#Official-Group"> Official Group Bot</a> •
   <a href="#donate">Donate</a>
 </p>
 </div>
@@ -42,9 +43,9 @@
 * Info Lebih Lanjut, Chat Di [Instagram](https://instagram.com/yoofi.ernesto/)
 
 # Requirements
-* [Node.js](https://nodejs.org/)
-* [Git](https://git-scm.com/downloads)
-* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip) (for sticker command)
+* [Node.js](https://nodejs.org/) (Engine)
+* [Git](https://git-scm.com/downloads) (Git bash) 
+* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip) (Stickers Convert)
 
 # Instalasi
 ## Heroku Buildpack
@@ -90,14 +91,14 @@ global.sessionName = 'session'
 - [Trakteer](https://trakteer.id/ernestoyoofi)
 - [Saweria](https://saweria.co/ernestoyoofi)
 
-# Official Group
-- [Group 1](https://chat.whatsapp.com/Bp3i42WNu80LsxYtQbRidz)
-
 # Thanks to
 - [Dika](https://github.com/DikaArdnt) <br> 
 - [Fatih](https://github.com/FatihArridho) <br> 
 - [Zeeone](https://github.com/zeeone-ofc) <br> 
 - [Yoga](https://github.com/YogGanz) <br> 
-- [Riy](https://github.com/) <br> 
+- [Riy](https://github.com/riychdwayne/) <br> 
 - [Xdit](https://github.com/Xdit133) <br>
 - [Ernestoyoofi](https://github.com/ernestoyoofi) <br>
+
+# Fixed & Add Featured
+- [1.2.3 (1.25.3 Recode By Ernestoyoofi)](https://fxplq8gqdx4oulvrildndq.on.drv.tw/wa-bot/index.html#lasted)
