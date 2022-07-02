@@ -25,7 +25,7 @@ return`  _Selamat ${salam} kak ${pushname}_
   *⏰ Time Server : ${time}*
   *📚 List Menu : ${botname}*
 
-  ┏━「 Group Meni 」
+  ┏━「 Group Menu 」
   ┃ » ${prefix}linkgroup
   ┃ » ${prefix}ephemeral [option]
   ┃ » ${prefix}setppgc
@@ -945,14 +945,10 @@ exports.ownermenu = (prefix) => {
 exports.thanksto = () => {
 	return`
   ┏━「 Thanks To 」
-  ┃ » DikaArdnt
-  ┃ » ZeeoneOfc
-  ┃ » FatihArridho
-  ┃ » Yoga
-  ┃ » Riy
-  ┃ » Deff
-  ┃ » Sanzy
-  ┃ » Nekel
-  ┃ » Bagas Prdn
+  ┃ » Allah
+  ┃ » Ortuku
+  ┃ » Subscriber
+  ┃ » User
+  ┃ » Dan Pengguna Lainnya
 `
 }
