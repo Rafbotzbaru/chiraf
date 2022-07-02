@@ -15,7 +15,7 @@ Saya ${botname}, Bot Multi-Device, Jika Ada Bug Atau Kesalahan, Lapor Saja`
 
 //—————「 List 」—————//
 exports.list = (pushname) => {
-	return`Halo kak ${pushname}, silahkan pilih list dibawah ini`
+	return`Halo kak ${pushname}, Pilih Menu Disini Tolol`
 }
 
 //—————「 All Menu 」—————//
