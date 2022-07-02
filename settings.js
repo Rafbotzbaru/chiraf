@@ -20,26 +20,26 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6281229979979'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.premium = ['6281229979979'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '6281229979979' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['6281946945315'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.premium = ['6281946945315'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '6281946945315' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'Ernestoyoofi' //Owner Bots
-global.botname = 'Ernestoyoofi' //Bot Name
-global.footer = 'Ernestoyoofi' //Footer Text
+global.ownername = 'Asyraf 6Youu' //Owner Bots
+global.botname = 'Raf Botz' //Bot Name
+global.footer = 'Raf Botz' //Footer Text
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
-global.youtube = 'https://youtube.com/ernestoyoofi'
-global.ig = 'http://instagram.com/yoofi.ernesto/'
-global.mygc = 'https://chat.whatsapp.com/Bp3i42WNu80LsxYtQbRidz'
-global.myweb = 'https://ernestoyoofi.github.io/'
-global.email = 'info.ernestoyoofi@gmail.com'
+global.youtube = 'https://youtube.com/channel/UCY6WNM6jZlmfWULcG69rNbQ'
+global.ig = 'https://instagram.com/asyrafsixyouu'
+global.mygc = 'https://chat.whatsapp.com/CRrj0z3HgeX39XHNUt0M9V'
+global.myweb = 'https://github.com/Rafbotzbaru'
+global.email = 'rafbotzwhatsapp@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
-global.packname = '' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'Ernestoyoofi Bot' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.packname = 'Stickef By' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.author = 'Raf Botz' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 global.sessionName = 'session'
@@ -71,16 +71,16 @@ global.sp = '»'
 
 //—————「 Set Message 」—————//
 global.mess = {
-success: 'Berhasil',
-admin: 'Hanya Admin 😅👆',
-botAdmin: 'Jadiin Admin Lah 🥰',
-owner: 'Hanya Owner Bot 🗿',
-group: 'Hanya Digunakan Untuk Group',
-private: 'Hanya Digunakan Untuk Private Chat',
+success: 'Gagal, Awowkwowk',
+admin: 'Lu Cuman Member,Kasian Awowkowkwok',
+botAdmin: 'Bot Admin Tolol',
+owner: 'Aowkwowk Lu Cuman Pengguna, Bukan Owner',
+group: 'Khusus Grup Kntl',
+private: 'Khusus Chat Pribadi Tolol',
 bot: 'Khusus Pengguna Nomor Bot',
-wait: 'Tunggu Sebentar...',
-error: 'Fitur Sedang Error 📃',
-endLimit: 'Limitmu Habis, Tunggu Jam 12',
+wait: 'Loading...,Moga Gagal',
+error: 'Eror Tolol',
+endLimit: 'Limitlu Habis tolol, nunggu 1 abad lagi',
 }
 
 //—————「 Batas Akhir 」—————//
