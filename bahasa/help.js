@@ -10,12 +10,12 @@
 exports.menu = (botname, pushname, salam) => {
 	return`Selamat ${salam} kak ${pushname}
 
-Saya ${botname}, Bot Multi-Device, Jika Ada Bug Atau Kesalahan, Lapor Saja`
+Saya ${botname}, Klok Ada Bug Bilang Ya Tolol, Tapi G Bakalan Peduli Kok`
 }
 
 //—————「 List 」—————//
 exports.list = (pushname) => {
-	return`Halo kak ${pushname}, Pilih Menu Disini Tolol`
+	return`Halo ${pushname} Anak Yatim, Pilih Menu Disini Tolol`
 }
 
 //—————「 All Menu 」—————//
@@ -437,39 +437,36 @@ return`  _Selamat ${salam} kak ${pushname}_
   ┃ » ${prefix}setallmenu
   ┗━━━
   
-  ┏━「 Search Menu 」
-  ┃ » DikaArdnt
-  ┃ » ZeeoneOfc
-  ┃ » FatihArridho
-  ┃ » Yoga
-  ┃ » Riy
-  ┃ » Deff
-  ┃ » Sanzy
-  ┃ » Nekel
-  ┃ » Bagas Prdn
+  ┏━「 Thanks To 」
+  ┃ » Allah Swt
+  ┃ » Ortuku
+  ┃ » Subscriber
+  ┃ » Pengguna
+  ┃ » Pendonasi
+  ┃ » Yang Sewabot
+  ┃ » Dan Para Suppoter Lainnya
   ┗━━━
   `
 }
 
 //—————「 Welcome 」—————//
 exports.welcome = () => {
-	return`Selamat Datang Kak
+	return`Selamat Datang Tolol
 `
 }
 
 //—————「 Leave 」—————//
 exports.leave = () => {
-	return`Dada Kak
+	return`Yah Kok Kak😢,Padahl Aku Masih Kuat 24Jam Loh 😙
 `
 }
 
 //—————「 Donasi 」—————//
 exports.donasi  = (ownernomer) => {
-	return`https://saweria.co/ernestoyoofi
-https://trakteer.id/ernestoyoofi`
+	return`https://rafsy.home.blog`
 }
 
-//—————「 Simple Menu 」—————//
+//—————List Menu 」—————//
 exports.groupmenu = (prefix) => {
 	return`
   ┏━「 Group 」
